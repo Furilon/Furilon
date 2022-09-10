@@ -1,5 +1,14 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furilon)](https://github.com/anuraghazra/github-readme-stats)
+### Hey 👋
+
+My name is **Mykyta Medvediev**,
+
+- 📚 I'm currently a senior Business Administration student at UC Irvine.
+- 👀 I'm interested in Full-Stack Web Development.
+- 🔍 I'm looking for a full-time Junior Front-End Developer position.
+- 📫 Reach me by email at mykytamedvediev@gmail.com or on [LinkedIn](https://www.linkedin.com/in/mykyta-medvediev/)
+
+### My development toolbelt
+
 
 <!--
 **Furilon/Furilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
