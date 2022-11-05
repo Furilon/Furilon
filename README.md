@@ -6,6 +6,7 @@ My name is **Mykyta Medvediev**,
 - 👀 I'm interested in Full-Stack Web Development.
 - 🔍 I'm looking for a full-time Junior Front-End Developer position.
 - 📫 Reach me by email at mykytamedvediev@gmail.com or on [LinkedIn](https://www.linkedin.com/in/mykyta-medvediev/)
+- 💼 My [portfolio](https://medvediev.com) website
 
 <hr>
 
